@@ -177,7 +177,7 @@ npm --version    # Should be v6.0.0 or higher
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TravelBharat.git
+git clone https://github.com/BALAVAISHNAVIJ2006/TravelBharat.git
 cd TravelBharat
 ```
 
