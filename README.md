@@ -13,6 +13,13 @@ TravelBharat is a full-stack web application designed to help travelers discover
 
 ---
 
+## 📄 Detailed Project Report
+Full documentation available here:
+
+🔗 [View DPR](docs/TravelBharat_DPR.pdf)
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Technology Stack](#technology-stack)
