@@ -6,6 +6,13 @@ TravelBharat is a full-stack web application designed to help travelers discover
 
 ---
 
+## 🌐 Live Demo
+
+- 🔗 Frontend (Vercel): https://travel-bharat.vercel.app/
+- 🔗 Backend API (Render): https://travelbharat.onrender.com
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Technology Stack](#technology-stack)
